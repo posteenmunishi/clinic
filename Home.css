@@ -1,0 +1,23 @@
+.picha{
+    height: 20%;
+    width: 50%;
+}
+.card{
+    width: 50%;
+    height: 60%;
+   
+}
+/* .container{
+    background-color: darkgrey;
+       height: 70px;
+   justify-content: center;
+    display: flex;
+    justify-content: space-around;
+} */
+.compose{
+display: flex;
+}
+.this{
+    width: 100%;
+    height: 70vh;
+}
